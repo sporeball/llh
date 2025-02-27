@@ -1,5 +1,7 @@
 # solvian
 
+<img src="https://github.com/sporeball/solvian/raw/main/assets/icon.png" width="128">
+
 **solvian** is a bot for the Hack Club Slack to help answer frequently asked questions.
 
 ## usage
