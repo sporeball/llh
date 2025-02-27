@@ -10,7 +10,7 @@ export default Manifest({
   name: "llh",
   description:
     "A sample that demonstrates using a function, workflow and trigger to send a greeting",
-  icon: "assets/default_new_app_icon.png",
+  icon: "assets/icon.png",
   workflows: [GreetingWorkflow],
   outgoingDomains: [],
   botScopes: ["commands", "chat:write", "chat:write.public"],
